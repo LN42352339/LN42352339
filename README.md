@@ -5,7 +5,7 @@
 <h3 align="center">Desarrollador de aplicaciones móviles · Automatización con IA · React Native + TypeScript + Firebase</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=React+Native+%2F+TypeScript;Firebase+Auth%2C+Firestore+%26+Storage;Automatizaci%C3%B3n+con+n8n+e+integraciones+de+APIs;T%C3%BA+diriges%2C+los+bots+programan+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=50&lines=React+Native+%2B+TypeScript;Firebase%3A+Auth%2C+Firestore+y+Storage;Automatizaci%C3%B3n+con+n8n+e+integraci%C3%B3n+de+APIs;T%C3%BA+diriges%2C+los+bots+programan" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -109,16 +109,21 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LN42352339&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LN42352339&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LN42352339&theme=tokyonight" alt="resumen del perfil" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LN42352339&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LN42352339&theme=tokyonight" alt="lenguajes por repositorio" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LN42352339&theme=tokyonight" alt="lenguaje con más commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LN42352339&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LN42352339&theme=tokyonight" alt="estadísticas" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LN42352339&theme=tokyonight&utcOffset=-5" alt="horario productivo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LN42352339&theme=tokyonight&hide_border=true" alt="racha de contribuciones" />
 </p>
 
 ---
