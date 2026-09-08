@@ -12,6 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=LN42352339&label=Visitas&color=61DAFB&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="./assets/avatar.svg" width="440" alt="ManSoft AI Director — avatar animado" />
+</p>
+
+<p align="center">
+  <a href="https://ln42352339.github.io/mansoft-avatar/"><img src="https://img.shields.io/badge/Ver_avatar_interactivo-0f172a?style=for-the-badge&logo=github&logoColor=06b6d4" alt="ver avatar" /></a>
+</p>
+
 ---
 
 ## 🧑‍💻 Sobre mí
