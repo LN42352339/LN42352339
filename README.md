@@ -1,6 +1,9 @@
 <!-- Este repo se debe llamar EXACTAMENTE "LN42352339" para que el README salga en tu perfil -->
 
 <h1 align="center">Hola 👋 Soy Mansoft</h1>
+<div align="center">
+  <img src="https://ln42352339.github.io/mansoft-avatar/" width="500" alt="ManSoft Avatar">
+</div>
 <h3 align="center">Desarrollador de aplicaciones móviles · React Native + TypeScript + Firebase</h3>
 
 <p align="center">
